@@ -1,5 +1,5 @@
 # technical-portfolio
-Technical Portdolio
+Technical PortFolio
 # Brandon T. Francis – Technical Portfolio
 
 ## Technical Delivery | Fintech • Energy/OT • Cybersecurity • Cloud
@@ -38,7 +38,7 @@ Hands-on labs and structured learning across core technologies:
 - Logging & Monitoring (SIEM concepts)
 
 Repo:
-- `technical-foundations-lab`
+- [Technical Foundations Lab](https://github.com/bfrancis64502/technical-foundations-lab)
 
 ### 2. Applied Projects
 
@@ -46,13 +46,13 @@ Repo:
 Physically isolated network environment simulating enterprise infrastructure with routing, switching, and segmentation.
 
 Repo:
-- `home-network-lab`
+- [Home Network Lab](https://github.com/bfrancis64502/home-network-lab)
 
 #### Azure Cloud Infrastructure Lab
 Cloud-based lab focused on virtual networking, access control, and secure architecture design.
 
 Repo:
-- `azure-network-security-lab`
+- [Azure Network Security Lab](https://github.com/bfrancis64502/azure-network-security-lab)
 
 ### 3. Architecture & System Design
 
@@ -60,7 +60,7 @@ Repo:
 High-level system design exploring integration of OT infrastructure, cloud platforms, and financial systems.
 
 Repo:
-- `securegrid-architecture`
+- [SecureGrid Architecture](https://github.com/bfrancis64502/securegrid-architecture)
 
 ---
 
